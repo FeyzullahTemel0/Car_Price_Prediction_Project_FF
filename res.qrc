@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="images">
+    <file>githubicon.png</file>
+    <file>mail (3).svg</file>
+    <file>linkedin.svg</file>
+    <file>instagram.svg</file>
+  </qresource>
+</RCC>
