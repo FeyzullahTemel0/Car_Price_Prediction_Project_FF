@@ -11,31 +11,24 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 1. Python ve PyQt5 gereksinimlerini yükleyin:
 
    ```bash
-   PyQt5 kurulumu:
+   PyQt5 kurulumu: pip install PyQt5
+   datetime, QTimer ve QTime, Python'ın dahili modülleri olduğu için ayrıca kurulum yapmanıza gerek yoktur.
 
-bash
+2. Scikit-learn (sklearn) kurulumu:
 
-pip install PyQt5
+   ```bash
 
-datetime, QTimer ve QTime, Python'ın dahili modülleri olduğu için ayrıca kurulum yapmanıza gerek yoktur.
+   Sklearn Kurulumu: pip install scikit-learn
+   webbrowser modülü de Python'ın dahili bir modülüdür, bu nedenle ayrıca kurulum yapmanıza gerek yoktur.
 
-scikit-learn (sklearn) kurulumu:
+3. Pandas kurulumu:
 
-bash
-
-pip install scikit-learn
-
-webbrowser modülü de Python'ın dahili bir modülüdür, bu nedenle ayrıca kurulum yapmanıza gerek yoktur.
-
-pandas kurulumu:
-
-bash
-
+   ```bash
+   
     pip install pandas
 
-Yukarıdaki komutları kullanarak bu kütüphaneleri Python ortamınıza kurabilirsiniz. İşletim sisteminize ve Python sürümünüze göre komutlar biraz farklılık gösterebilir, bu nedenle hangi işletim sistemini ve Python sürümünü kullandığınıza bağlı olarak komutları uyarlamayı unutmayın.
-    bash
 
-python main.py
+Not:Yukarıdaki komutları kullanarak bu kütüphaneleri Python ortamınıza kurabilirsiniz. İşletim sisteminize ve Python sürümünüze göre komutlar biraz farklılık gösterebilir, bu nedenle hangi işletim sistemini ve Python sürümünü kullandığınıza bağlı olarak komutları uyarlamayı unutmayın.
 
-Uygulama başladığında, bir sayı çizin ve "PREDICT" düğmesine tıklayarak tahmin sonucunu alın.
+Not: TÜm eğitim verileri gerçekten uzakta olmakla birlikte gerçekten ufak tahmin sonuçları vermektedir.Bilginize.
+Uygulama başladığında, gerekli bilgileri girin ve tahmin yapa tıklayın bırakın fiyat tahminini uygulamanız yapsın.
