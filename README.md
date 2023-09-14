@@ -30,5 +30,5 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 
 Not:Yukarıdaki komutları kullanarak bu kütüphaneleri Python ortamınıza kurabilirsiniz. İşletim sisteminize ve Python sürümünüze göre komutlar biraz farklılık gösterebilir, bu nedenle hangi işletim sistemini ve Python sürümünü kullandığınıza bağlı olarak komutları uyarlamayı unutmayın.
 
-Not: TÜm eğitim verileri gerçekten uzakta olmakla birlikte gerçekten ufak tahmin sonuçları vermektedir.Bilginize.
+Not: Tüm eğitim verileri gerçekten uzakta olmakla birlikte gerçekten ufak tahmin sonuçları vermektedir.Bilginize.
 Uygulama başladığında, gerekli bilgileri girin ve tahmin yapa tıklayın bırakın fiyat tahminini uygulamanız yapsın.
