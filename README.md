@@ -1,4 +1,4 @@
-perl
+
 
 # Araç Fiyat Tahmin Uygulaması
 
